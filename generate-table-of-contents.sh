@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# Bug:
+
+echo '卷12.md is special, this script cannot add it to table of contents.'
+echo 'You need to add it manually.'
+
 extract_titles () {
   text_file=$1
   vol_title=$(basename $text_file .md)
@@ -12,3 +17,5 @@ extract_titles () {
 for i in 卷*.md; do
   extract_titles $i
 done
+
+
