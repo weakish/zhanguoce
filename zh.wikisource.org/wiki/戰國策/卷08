@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="zh" dir="ltr" class="client-nojs">
+<head>
+<title>戰國策/卷08 - 维基文库，自由的图书馆</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.20wmf12" />
+<link rel="alternate" type="application/x-wiki" title="编辑" href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit" />
+<link rel="edit" title="编辑" href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (zh)" />
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikisource.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="zh" href="/zh/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" />
+<link rel="alternate" hreflang="zh-hans" href="/zh-hans/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" />
+<link rel="alternate" hreflang="zh-hant" href="/zh-hant/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikisource的Atom" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/zh.wikisource.org/load.php?debug=false&amp;lang=zh&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/zh.wikisource.org/load.php?debug=false&amp;lang=zh&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: zhwikisource:resourceloader:filter:minify-css:7:d25636e53ab7cc75b7704225698c6e72 */
+</style>
+
+<script src="//bits.wikimedia.org/zh.wikisource.org/load.php?debug=false&amp;lang=zh&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"戰國策/卷08","wgTitle":"戰國策/卷08","wgCurRevisionId":310030,"wgArticleId":9725,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old"],"wgBreakFrames":false,"wgPageContentLanguage":"zh","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"戰國策/卷08","wgUserVariant":"zh","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,102,106],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikisource"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"zh","language":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs102":true,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs106":true,"searchNs107":false});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: zhwikisource:resourceloader:filter:minify-js:7:8b37f3cf60f5b6fa723236f39e3b310e */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf12/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-戰國策_卷08 skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\" lang=\"zh\" dir=\"ltr\"\x3e\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">戰國策/卷08</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">維基文庫，自由的圖書館</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/%E6%88%B0%E5%9C%8B%E7%AD%96" title="戰國策">戰國策</a></span></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					跳转到：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="zh" dir="ltr" class="mw-content-ltr"><p><a href="/wiki/%E6%88%B0%E5%9C%8B%E7%AD%96" title="戰國策">回主目錄</a></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>目录</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A5.9A.E5.A8.81.E7.8E.8B.E6.88.B0.E5.8B.9D.E6.96.BC.E5.BE.90.E5.B7.9E"><span class="tocnumber">1</span> <span class="toctext">楚威王戰勝於徐州</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E9.BD.8A.E5.B0.87.E5.B0.81.E7.94.B0.E5.AC.B0.E6.96.BC.E8.96.9B"><span class="tocnumber">2</span> <span class="toctext">齊將封田嬰於薛</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E9.9D.96.E9.83.AD.E5.90.9B.E5.B0.87.E5.9F.8E.E8.96.9B"><span class="tocnumber">3</span> <span class="toctext">靖郭君將城薛</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E9.9D.96.E9.83.AD.E5.90.9B.E8.AC.82.E9.BD.8A.E7.8E.8B"><span class="tocnumber">4</span> <span class="toctext">靖郭君謂齊王</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E9.9D.96.E9.83.AD.E5.90.9B.E5.96.84.E9.BD.8A.E8.B2.8C.E8.BE.A8"><span class="tocnumber">5</span> <span class="toctext">靖郭君善齊貌辨</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E9.82.AF.E9.84.B2.E4.B9.8B.E9.9B.A3"><span class="tocnumber">6</span> <span class="toctext">邯鄲之難</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E5.8D.97.E6.A2.81.E4.B9.8B.E9.9B.A3"><span class="tocnumber">7</span> <span class="toctext">南梁之難</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#.E6.88.90.E4.BE.AF.E9.84.92.E5.BF.8C.E7.82.BA.E9.BD.8A.E7.9B.B8"><span class="tocnumber">8</span> <span class="toctext">成侯鄒忌為齊相</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#.E7.94.B0.E5.BF.8C.E7.82.BA.E9.BD.8A.E5.B0.87"><span class="tocnumber">9</span> <span class="toctext">田忌為齊將</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#.E7.94.B0.E5.BF.8C.E4.BA.A1.E9.BD.8A.E8.80.8C.E4.B9.8B.E6.A5.9A"><span class="tocnumber">10</span> <span class="toctext">田忌亡齊而之楚</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#.E9.84.92.E5.BF.8C.E4.BA.8B.E5.AE.A3.E7.8E.8B"><span class="tocnumber">11</span> <span class="toctext">鄒忌事宣王</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#.E9.84.92.E5.BF.8C.E8.84.A9.E5.85.AB.E5.B0.BA.E6.9C.89.E9.A4.98"><span class="tocnumber">12</span> <span class="toctext">鄒忌脩八尺有餘</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#.E7.A7.A6.E5.81.87.E9.81.93.E9.9F.93.E9.AD.8F.E4.BB.A5.E6.94.BB.E9.BD.8A"><span class="tocnumber">13</span> <span class="toctext">秦假道韓魏以攻齊</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#.E6.A5.9A.E5.B0.87.E4.BC.90.E9.BD.8A"><span class="tocnumber">14</span> <span class="toctext">楚將伐齊</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#.E7.A7.A6.E4.BC.90.E9.AD.8F"><span class="tocnumber">15</span> <span class="toctext">秦伐魏</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#.E8.98.87.E7.A7.A6.E7.82.BA.E8.B6.99.E5.90.88.E5.BE.9E.E8.AA.AA.E9.BD.8A.E5.AE.A3.E7.8E.8B"><span class="tocnumber">16</span> <span class="toctext">蘇秦為趙合從說齊宣王</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#.E5.BC.B5.E5.84.80.E7.82.BA.E7.A7.A6.E9.80.A3.E6.A9.AB.E9.BD.8A.E7.8E.8B"><span class="tocnumber">17</span> <span class="toctext">張儀為秦連橫齊王</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=1" title="编辑段落：楚威王戰勝於徐州">编辑</a>]</span> <span class="mw-headline" id=".E6.A5.9A.E5.A8.81.E7.8E.8B.E6.88.B0.E5.8B.9D.E6.96.BC.E5.BE.90.E5.B7.9E">楚威王戰勝於徐州</span></h2>
+<p>楚威王戰勝於徐州，欲逐嬰子於齊。嬰子恐，張丑謂楚王曰：「王戰勝於徐州也，盼子不用也。盼子有功於國，百姓為之用。嬰子不善，而用申縳。申縳者，大臣與百姓弗為用，故王勝之也。今嬰子逐，盼子必用。復整其士卒以與王遇，必不便於王也。」楚王因弗逐。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=2" title="编辑段落：齊將封田嬰於薛">编辑</a>]</span> <span class="mw-headline" id=".E9.BD.8A.E5.B0.87.E5.B0.81.E7.94.B0.E5.AC.B0.E6.96.BC.E8.96.9B">齊將封田嬰於薛</span></h2>
+<p>齊將封田嬰於薛。楚王聞之，大怒，將伐齊。齊王有輟志。公孫閈曰：「封之成與不，非在齊也，又將在楚。閈說楚王，令其欲封公也又甚於齊。」嬰子曰：「願委之於子。」</p>
+<p>公孫閈為謂楚王曰：「魯、宋事楚而齊不事者，齊大而魯、宋小。王獨利魯、宋之小，不惡齊大何也？夫齊削地而封田嬰，是其所以弱也。願勿止。」楚王曰：「善。」因不止。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=3" title="编辑段落：靖郭君將城薛">编辑</a>]</span> <span class="mw-headline" id=".E9.9D.96.E9.83.AD.E5.90.9B.E5.B0.87.E5.9F.8E.E8.96.9B">靖郭君將城薛</span></h2>
+<p>靖郭君將城薛，客多以諫。靖郭君謂謁者，旡為客通。齊人有請者曰：「臣請三言而已矣！益一言，臣請烹。」靖郭君因見之。客趨而進曰：「海大魚。」因反走。君曰：「客有於此。」客曰：「鄙臣不敢以死為戲。」君曰：「亡，更言之。」對曰：「君不聞大魚乎？網不能止，鉤不能牽，蕩而失水，則螻蟻得意焉。今夫齊，亦君之水也。君長有齊陰，奚以薛為？夫齊，雖隆薛之城到於天，猶之無益也。」君曰：「善。」乃輟城薛。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=4" title="编辑段落：靖郭君謂齊王">编辑</a>]</span> <span class="mw-headline" id=".E9.9D.96.E9.83.AD.E5.90.9B.E8.AC.82.E9.BD.8A.E7.8E.8B">靖郭君謂齊王</span></h2>
+<p>靖郭君謂齊王曰：「五官之計，不可不日聽也而數覽。」王曰：「說五而厭之。」今與靖郭君。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=5" title="编辑段落：靖郭君善齊貌辨">编辑</a>]</span> <span class="mw-headline" id=".E9.9D.96.E9.83.AD.E5.90.9B.E5.96.84.E9.BD.8A.E8.B2.8C.E8.BE.A8">靖郭君善齊貌辨</span></h2>
+<p>靖郭君善齊貌辨。齊貌辨之為人也多疵，門人弗說。士尉以証靖郭君，靖郭君不聽，士尉辭而去。孟嘗君又竊以諫，靖郭君大怒曰：「剗而類，破吾家。苟可慊齊貌辨者，吾無辭為之。」於是舍之上舍，令長子御，旦暮進食。</p>
+<p>數年，威王薨，宣王立。靖郭君之交，大不善於宣王，辭而之薛，與齊貌辨俱留。無幾何，齊貌辨辭而行，請見宣王。靖郭君曰：「王之不說嬰甚，公往必得死焉。」齊貌辨曰：「固不求生也，請必行。」靖郭君不能止。</p>
+<p>齊貌辨行至齊，宣王聞之，藏怒以待之。齊貌辨見宣王，王曰：「子，靖郭君之所聽愛夫！」齊貌辨曰：「愛則有之，聽則無有。王之方為太子之時，辨謂靖郭君曰：『太子相不仁，過頤豕視，若是者信反。不若廢太子，更立衛姬嬰兒郊師。』靖郭君泣而曰：『不可，吾不忍也。』若聽辨而為之，必無今日之患也。此為一。至於薛，昭陽請以數倍之地易薛，辨又曰：『必聽之。』靖郭君曰：『受薛於先王，雖惡於後王，吾獨謂先王何乎！且先王之廟在薛，吾豈可以先王之廟與楚乎！』又不肯聽辨。此為二。」宣王大息，動於顏色，曰：「靖郭君之於寡人一至此乎！寡人少，殊不知此。客肯為寡人來靖郭君乎？」齊貌辨對曰：「敬諾。」</p>
+<p>靖郭君衣威王之衣，冠舞其劍，宣王自迎靖郭君於郊，望之而泣。靖郭君至，因請相之。靖郭君辭，不得已而受。七日，謝病強辭。靖郭君辭不得，三日而聽。</p>
+<p>當是時，靖郭君可謂能自知人矣！能自知人，故人非之不為沮。此齊貌辨之所以外生樂患趣難者也。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=6" title="编辑段落：邯鄲之難">编辑</a>]</span> <span class="mw-headline" id=".E9.82.AF.E9.84.B2.E4.B9.8B.E9.9B.A3">邯鄲之難</span></h2>
+<p>邯鄲之難，趙求救於齊。田侯召大臣而謀曰：「救趙孰與勿救？」鄒子曰：「不如勿救。」段干綸曰：「弗救，則我不利。」田侯曰：「何哉？」「夫魏氏兼邯鄲，其於齊何利哉！」田侯曰：「善。」乃起兵，曰：「軍於邯鄲之郊。」段干綸曰：「臣之求利且不利者，非此也。夫救邯鄲，軍於其郊，是趙不拔而魏全也。故不如南攻襄陵以弊魏，邯鄲拔而承魏之弊，是趙破而魏弱也。」田侯曰：「善。」乃起兵南攻襄陵。七月，邯鄲拔。齊因承魏之弊，大破之桂陵。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=7" title="编辑段落：南梁之難">编辑</a>]</span> <span class="mw-headline" id=".E5.8D.97.E6.A2.81.E4.B9.8B.E9.9B.A3">南梁之難</span></h2>
+<p>南梁之難，韓氏請救於齊。田侯召大臣而謀曰：「早救之，孰與晚救之便？張丐對曰：「晚救之，韓且折而入於魏，不如早救之。」田臣思曰：「不可。夫韓、魏之兵未弊，而我救之，我代韓而受魏之兵，顧反聽命於韓也。且夫魏有破韓之志，韓見且亡，必東愬於齊。我因陰結韓之親，而晚承魏之弊，則國可重，利可得，名可尊矣。」田侯曰：「善。」乃陰告韓使者而遣之。</p>
+<p>韓自以專有齊國，五戰五不勝，東愬於齊，齊因起兵擊魏，大破之馬陵。魏破韓弱，韓、魏之君因田嬰北面而朝田侯。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=8" title="编辑段落：成侯鄒忌為齊相">编辑</a>]</span> <span class="mw-headline" id=".E6.88.90.E4.BE.AF.E9.84.92.E5.BF.8C.E7.82.BA.E9.BD.8A.E7.9B.B8">成侯鄒忌為齊相</span></h2>
+<p>成侯鄒忌為齊相，田忌為將，不相說。公孫閈謂鄒忌曰：「公何不為王謀伐魏？勝，則是君之謀也，君可以有功；戰不勝，田忌不進，戰而不死，曲撓而誅。」鄒忌以為然，乃說王而使田忌伐魏。</p>
+<p>田忌三戰三勝，鄒忌以告公孫閈，公孫閈乃使人操十金而往卜於市，曰：「我田忌之人也，吾三戰而三勝，聲威天下，欲為大事，亦吉否？」卜者出，因令人捕為人卜者，亦驗其辭於王前。田忌遂走。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=9" title="编辑段落：田忌為齊將">编辑</a>]</span> <span class="mw-headline" id=".E7.94.B0.E5.BF.8C.E7.82.BA.E9.BD.8A.E5.B0.87">田忌為齊將</span></h2>
+<p>田忌為齊將，係梁太子申，禽龐涓。孫子謂田忌曰：「將軍可以為大事乎？」田忌曰：「奈何？」孫子曰：「將軍無解兵而入齊。使彼罷弊於先弱守於主。主者，循軼之途也，鎋擊摩車而相過。使彼罷弊先弱守於主，必一而當十，十而當百，百而當千。然後背太山，左濟，右天唐，軍重踵高宛，使輕車銳騎衝雍門。若是，則齊君可正，而成侯可走。不然，則將軍不得入於齊矣。」田忌不聽，果不入齊。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=10" title="编辑段落：田忌亡齊而之楚">编辑</a>]</span> <span class="mw-headline" id=".E7.94.B0.E5.BF.8C.E4.BA.A1.E9.BD.8A.E8.80.8C.E4.B9.8B.E6.A5.9A">田忌亡齊而之楚</span></h2>
+<p>田忌亡齊而之楚，鄒忌代之相。齊恐田忌欲以楚權復於齊，杜赫曰：「臣請為留楚。」</p>
+<p>謂楚王曰：「鄒忌所以不善楚者，恐田忌之以楚權復於齊也。王不如封田忌於江南，以示田忌之不返齊也，鄒忌以齊厚事楚。田忌亡人也，而得封，必德王。若復於齊，必以齊事楚。此用二忌之道也。」楚果封之於江南。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=11" title="编辑段落：鄒忌事宣王">编辑</a>]</span> <span class="mw-headline" id=".E9.84.92.E5.BF.8C.E4.BA.8B.E5.AE.A3.E7.8E.8B">鄒忌事宣王</span></h2>
+<p>鄒忌事宣王，仕人眾，宣王不悅。晏首貴而仕人寡，王悅之。鄒忌謂宣王曰：「忌聞以為有一子之孝，不如有五子之孝。今首之所進仕者，以幾何人？」宣王因以晏首壅塞之。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=12" title="编辑段落：鄒忌脩八尺有餘">编辑</a>]</span> <span class="mw-headline" id=".E9.84.92.E5.BF.8C.E8.84.A9.E5.85.AB.E5.B0.BA.E6.9C.89.E9.A4.98">鄒忌脩八尺有餘</span></h2>
+<p>鄒忌脩<sup id="cite_ref-0" class="reference"><a href="#cite_note-0">[1]</a></sup>八尺<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[2]</a></sup>有餘，形貌昳麗<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[3]</a></sup>。朝<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[4]</a></sup>服衣冠窺<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[5]</a></sup>鏡，謂其妻曰：「我孰與城北<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[6]</a></sup>徐公美？」其妻曰：「君美甚，徐公何能及君也！」城北徐公，齊國之美麗者也。忌不自信，而復問其妾曰：「吾孰與徐公美？」妾曰：「徐公何能及君也！」旦日<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[7]</a></sup>，客從外來，與坐談，問之客曰：「吾與徐公孰美？」客曰：「徐公不若君之美也！」</p>
+<p>明日，徐公來。熟<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[8]</a></sup>視之，自以為不如；窺鏡而自視，又弗如遠甚。暮，寢而思之曰：「吾妻之美我者，私我也；妾之美我者，畏我也；客之美我者，欲有求於我也。」</p>
+<p>於是入朝見威王<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[9]</a></sup>曰：「臣誠知不如徐公美，臣之妻私臣，臣之妾畏臣，臣之客欲有求於臣，皆以美於徐公。今齊地方千里，百二十城，宮婦左右，莫不私王；朝廷之臣，莫不畏王；四境之內，莫不有求於王。由此觀之，王之敝<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[10]</a></sup>甚矣！」王曰：「善。」乃下令：「羣臣吏民，能面刺<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[11]</a></sup>寡人之過者，受上賞；上書諫寡人者，受中賞；能謗議於市朝，聞寡人之耳者，受下賞。」</p>
+<p>令初下，群臣進諫，門庭若市。數月之後，時時而間進<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[12]</a></sup>。期年之後，雖欲言，無可進者。燕、趙、韓、魏聞之，皆朝於齊。此所謂戰勝於朝廷<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[13]</a></sup>。</p>
+<p>註釋</p>
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><a href="#cite_ref-0">↑</a></span> <span class="reference-text">脩︰指身高。</span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">八尺︰於今約為五尺六寸。</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">昳麗︰漂亮、美麗。昳，通「逸」。</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">朝︰早起。</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">窺鏡︰謂不自由地照鏡，因鏡小之故也。</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">城北︰指齊國都城臨淄，位於山東省臨淄縣。</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">旦日︰第二日。</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">熟︰仔細。</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">威王︰齊國國君。</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">敝︰通「蔽」，蒙蔽。</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">刺︰指出。</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">時時而間進︰謂進諫漸少，要隔些時候才來一次。</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">戰勝於朝廷︰謂不用興兵而獲勝也。</span></li>
+</ol>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=13" title="编辑段落：秦假道韓魏以攻齊">编辑</a>]</span> <span class="mw-headline" id=".E7.A7.A6.E5.81.87.E9.81.93.E9.9F.93.E9.AD.8F.E4.BB.A5.E6.94.BB.E9.BD.8A">秦假道韓魏以攻齊</span></h2>
+<p>秦假道韓、魏以攻齊，齊威王使章子將而應之。與秦交和而舍，使者數相往來，章子為變其徽章，以雜秦軍。候者言章子以齊入秦，威王不應。頃之間，候者復言章子以齊兵降秦，威王不應。而此者三。有司請曰：「言章子之敗者，異人而同辭。王何不發將而擊之？」王曰：「此不叛寡人明矣，曷為擊之！」</p>
+<p>頃間，言齊兵大勝，秦軍大敗，於是秦王拜西藩之臣而謝於齊。左右曰：「何以知之？」曰：「章子之母啟得罪其父，其父殺之而埋馬棧之下。吾使者章子將也，勉之曰：『夫子之強，全兵而還，必更葬將軍之母。』對曰：『臣非不能更葬先妾也。臣之母啟得罪臣之父。臣之父未教而死。夫不得父之教而更葬母，是欺死父也。故不敢。』夫為人子而不欺死父，豈為人臣欺生君哉？」</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=14" title="编辑段落：楚將伐齊">编辑</a>]</span> <span class="mw-headline" id=".E6.A5.9A.E5.B0.87.E4.BC.90.E9.BD.8A">楚將伐齊</span></h2>
+<p>楚將伐齊，魯親之，齊王患之。張丐曰：「臣請令魯中立。」乃為齊見魯君。魯君曰：「齊王懼乎？」曰：「非臣所知也，臣來弔足下。」魯君曰：「何弔？」曰：「君之謀過矣。君不與勝者而與不勝者，何故也？」魯君曰：「子以齊、楚為孰勝哉？」對曰：「鬼且不知也。」「然則子何以弔寡人？」曰：「齊，楚之權敵也，不用有魯與無魯。足下豈如令眾而合二國之後哉！楚大勝齊，其良士選卒必殪，其餘兵足以待天下；齊為勝，其良士選卒亦殪。而君以魯眾合戰勝後，此其為德也亦大矣，其見恩德亦其大也。」魯君以為然，身退師。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=15" title="编辑段落：秦伐魏">编辑</a>]</span> <span class="mw-headline" id=".E7.A7.A6.E4.BC.90.E9.AD.8F">秦伐魏</span></h2>
+<p>秦伐魏，陳軫合三晉而東謂齊王曰：「古之王者之伐也，欲以正天下而立功名，以為後世也。今齊、楚、燕、趙、韓、梁六國之遞甚也，不足以立功名，適足以強秦而自弱也，非山東之上計也。能危山東者，強秦也。不憂強秦，而遞相罷弱，而兩歸其國於秦，此臣之所以為山東之患。天下為秦相割，秦曾不出力；天下為秦相烹，秦曾不出薪。何秦之智而山東之愚耶？願大王之察也。</p>
+<p>「古之五帝、三王、五伯之伐也，伐不道者。今秦之伐天下不然，必欲反之，主必死辱，民必死虜。今韓、梁之目未嘗乾，而齊民獨不也，非齊親而韓、梁疏也，齊遠秦而韓、梁近。今齊將近矣！今秦欲攻梁絳、安邑，秦得絳、安邑以東下河，必表裏河而東攻齊，舉齊屬之海，南面而孤楚、韓、梁，北向而孤燕、趙，齊無所出其計矣。願王熟慮之！</p>
+<p>「今三晉已合矣，復為兄弟約，而出銳師以戍梁絳、安邑，此萬世之計也。齊非急以銳師合三晉，必有後憂。三晉合，秦必不敢攻梁，必南攻楚。楚、秦構難，三晉怒齊不與己也，必東攻齊。此臣之所謂齊必有大憂，不如急以兵合於三晉。」</p>
+<p>齊王敬諾，果以兵合於三晉。</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=16" title="编辑段落：蘇秦為趙合從說齊宣王">编辑</a>]</span> <span class="mw-headline" id=".E8.98.87.E7.A7.A6.E7.82.BA.E8.B6.99.E5.90.88.E5.BE.9E.E8.AA.AA.E9.BD.8A.E5.AE.A3.E7.8E.8B">蘇秦為趙合從說齊宣王</span></h2>
+<p>蘇秦為趙合從，說齊宣王曰：「齊南有太山，東有琅邪，西有清河，北有渤海，此所謂四塞之國也。齊地方二千里，帶甲數十萬，粟如丘山。齊車之良，五家之兵，疾如錐矢，戰如雷電，解如風雨，即有軍役，未嘗倍太山、絕清河、涉渤海也。臨淄之中七萬戶，臣竊度之，下戶三男子，三七二十一萬，不待發於遠縣，而臨淄之卒，固以二十一萬矣。臨淄甚富而實，其民無不吹竽、鼓瑟、擊筑、彈琴、鬭雞、走犬、六博、蹹踘者；臨淄之途，車擊，人肩摩，連衽成帷，舉袂成幕，揮汗成雨；家敦而富，志高而揚。夫以大王之賢與齊之強，天下不能當。今乃西面事秦，竊為大王羞之。</p>
+<p>「且夫韓、魏之所以畏秦者，以與秦接界也。兵出而相當，不至十日，而戰勝存亡之機決矣。韓、魏戰而勝秦，則兵半折，四境不守；戰而不勝，以亡隨其後。是故韓、魏之所以重與秦戰而輕為之臣也。</p>
+<p>「今秦攻齊則不然，倍韓、魏之地，至闈陽晉之道，徑亢父之險，車不得方軌，馬不得並行，百人守險，千人不能過也。秦雖欲深入，則狼顧，恐韓、魏之議其後也。是故恫疑虛猲，高躍而不敢進，則秦不能害齊，亦已明矣。夫不深料秦之不奈我何也，而欲西面事秦，是羣臣之計過也。今無臣事秦之名，而有強國之實，臣固願大王之少留計。」齊王曰：「寡人不敏，今主君以趙王之教詔之，敬奉社稷以從。」</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;section=17" title="编辑段落：張儀為秦連橫齊王">编辑</a>]</span> <span class="mw-headline" id=".E5.BC.B5.E5.84.80.E7.82.BA.E7.A7.A6.E9.80.A3.E6.A9.AB.E9.BD.8A.E7.8E.8B">張儀為秦連橫齊王</span></h2>
+<p>張儀為秦連橫齊王曰：「天下強國無過齊者，大臣父兄殷眾富樂，無過齊者。然而為大王計者，皆為一時說而不顧萬世之利。從人說大王者，必謂齊西有強趙，南有韓、魏，負海之國也，地廣人眾，兵強士勇，雖有百秦，將無奈我何！大王覽其說，而不察其至實。</p>
+<p>「夫從人朋黨比周，莫不以從為可。臣聞之，齊與魯三戰而魯三勝，國以危，亡隨其後，雖有勝名而有亡之實，是何故也？齊大而魯小。今趙之與秦也，猶齊之於魯也。秦、趙戰於河漳之上，再戰而再勝秦；戰於番吾之下，再戰而再勝秦。四戰之後，趙亡卒數十萬，邯鄲僅存。雖有勝秦之名，而國破矣！是何故也？秦強而趙弱也。今秦、楚嫁子取婦，為昆弟之國；韓獻宜陽，魏效河外，趙入朝黽池，割河間以事秦。大王不事秦，秦驅韓、魏攻齊之南地，悉趙涉河關，指摶關，臨淄、即墨非王之有也。國一日被攻，雖欲事秦，不可得也。是故願大王熟計之。」</p>
+<p>齊王曰：「齊僻陋隱居，託於東海之上，未嘗聞社稷之長利。今大客幸而教之，請奉社稷以事秦。」獻魚鹽之地三百於秦也。</p>
+<p><br /></p>
+<table style="width:100%; margin:auto; background-color:#F9F9F9; border:1px solid #93A6C0; clear:both;" cellspacing="0" cellpadding="0">
+<tr>
+<td style="width:35px; padding:0.5em;"><a href="/wiki/File:PD-icon.svg" class="image"><img alt="PD-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/35px-PD-icon.svg.png" width="35" height="35" /></a></td>
+<td><span style="font-color:#464646">本作品在全世界都属于<b><a href="//zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F" class="extiw" title="w:公有领域">公有领域</a></b>，因为作者逝世已经超过100年，并且于1923年1月1日之前出版。</span></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 372/1000000
+Post-expand include size: 1373/2048000 bytes
+Template argument size: 173/2048000 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key zhwikisource:pcache:idhash:9725-0!*!0!!zh!4!zh!* and timestamp 20120817193720 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				来自“<a href="http://zh.wikisource.org/w/index.php?title=戰國策/卷08&amp;oldid=310030">http://zh.wikisource.org/w/index.php?title=戰國策/卷08&amp;oldid=310030</a>”				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">1个分类</a>：<ul><li><a href="/wiki/Category:PD-old" title="Category:PD-old">PD-old</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>个人工具</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%88%B0%E5%9C%8B%E7%AD%96%2F%E5%8D%B708&amp;type=signup">创建账户</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%88%B0%E5%9C%8B%E7%AD%96%2F%E5%8D%B708" title="我们鼓励你登录，不过这不是强制的 [o]" accesskey="o">登录</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>名字空间</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708"  title="查看内容页面 [c]" accesskey="c">页面</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit&amp;redlink=1"  title="有关内容页面的讨论 [t]" accesskey="t">讨论</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu">
+	<h4>
+						不转换										</h4>
+	<h5><span>变换</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+							<li id="ca-varlang-0" class="selected"><a href="/zh/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" lang="zh" hreflang="zh" >不转换</a></li>
+							<li id="ca-varlang-1"><a href="/zh-hans/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" lang="zh-hans" hreflang="zh-hans" >简体</a></li>
+							<li id="ca-varlang-2"><a href="/zh-hant/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" lang="zh-hant" hreflang="zh-hant" >繁體</a></li>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>查看</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" >阅读</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=edit"  title="你可以编辑本页面。请在保存前使用预览按钮。 [e]" accesskey="e">编辑</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;action=history"  title="本页面过去的版本 [h]" accesskey="h">查看历史</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>操作</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">搜索</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="在Wikisource中搜索 [f]" accesskey="f" id="searchInput" />						<button name="button" title="搜索含这些文字的页面" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf12/skins/vector/images/search-ltr.png?303-4" alt="搜索" /></button>								<input type='hidden' name="title" value="Special:搜索"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/4/4b/Wikisource-logo-zh.png);" href="/wiki/Wikisource:%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>导航</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Wikisource:%E9%A6%96%E9%A1%B5" title="访问首页 [z]" accesskey="z">首页</a></li>
+			<li id="n-portal"><a href="/wiki/Wikisource:%E7%A4%BE%E5%8C%BA%E4%B8%BB%E9%A1%B5" title="关于本项目，你可以做什么，在哪里找到你需要的事物">社区专页</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki的最近更改列表 [r]" accesskey="r">最近更改</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="载入一个随机页面 [x]" accesskey="x">随机页面</a></li>
+			<li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Commons:Upload/zh-hant">上传自由版权图像</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- help -->
+<div class="portal" id='p-help'>
+	<h5>帮助</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="查找帮助的地方">帮助</a></li>
+			<li id="n-Scriptorium"><a href="/wiki/Wikisource:%E5%86%99%E5%AD%97%E9%97%B4">写字间</a></li>
+			<li id="n-policy"><a href="/wiki/Wikisource:%E6%96%B9%E9%92%88%E4%B8%8E%E6%8C%87%E5%BC%95">方针与指引</a></li>
+			<li id="n-allpages"><a href="/wiki/Special:%E6%89%80%E6%9C%89%E9%A1%B5%E9%9D%A2">所有页面</a></li>
+			<li id="n-contact"><a href="/wiki/Wikisource:%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC">联系我们</a></li>
+			<li id="n-about"><a href="/wiki/Wikisource:%E5%85%B3%E4%BA%8E">关于维基文库</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120717SB001&amp;uselang=zh" title="资助我们">捐助</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /help -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>打印/导出</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:%E5%9B%BE%E4%B9%A6&amp;bookcmd=book_creator&amp;referer=%E6%88%B0%E5%9C%8B%E7%AD%96%2F%E5%8D%B708" title="创建图书或页面收藏" rel="nofollow">创建图书</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:%E5%9B%BE%E4%B9%A6&amp;bookcmd=render_article&amp;arttitle=%E6%88%B0%E5%9C%8B%E7%AD%96%2F%E5%8D%B708&amp;oldid=310030&amp;writer=rl" title="下载本维基页面的PDF版本" rel="nofollow">下载为PDF</a></li><li id="t-print"><a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;printable=yes" title="本页面的可打印版本 [p]" accesskey="p">打印版本</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>工具箱</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" title="所有链入本页的wiki页面列表 [j]" accesskey="j">链入页面</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708" title="本页链入的页面的最近更改 [k]" accesskey="k">相关更改</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表 [q]" accesskey="q">特殊页面</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;oldid=310030" title="本页面该版本的永久链接">永久链接</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8&amp;page=%E6%88%B0%E5%9C%8B%E7%AD%96%2F%E5%8D%B708&amp;id=310030" title="关于如何引用此页的资讯">引用此文</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2011年5月3日 (星期二) 18:31。</li>
+											<li id="footer-info-copyright">本站的全部文字在<a class="internal" href="//zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" title="Wikipedia:CC-by-sa-3.0协议文本">知识共享 署名-相同方式共享 3.0协议</a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>）<br />在部份国家和地区，包括中国大陆、澳门和台湾，作者精神权（含署名权）永久有效（<b><a class="internal" href="/wiki/Wikisource:%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF">详情</a></b>）。<br />
+Wikisource&reg;和维基文库标志是<a href="http://wikimediafoundation.org">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />维基媒体基金会是在美国佛罗里达州登记的501(c)(3)<a href="//wikimediafoundation.org/wiki/%E8%B5%84%E5%8A%A9%E7%9A%84%E5%85%8D%E7%A8%8E%E6%94%BF%E7%AD%96">免税</a>、非营利、慈善机构。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="wikimedia:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikisource:%E5%85%B3%E4%BA%8E" title="Wikisource:关于">关于维基文库</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="Wikisource:免责声明">免责声明</a></li>
+											<li id="footer-places-mobileview"><a href="https://zh.m.wikisource.org/w/index.php?title=%E6%88%B0%E5%9C%8B%E7%AD%96/%E5%8D%B708&amp;mobileaction=toggle_view_mobile" class="noprint">移动版视图</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf12/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/zh.wikisource.org/load.php?debug=false&amp;lang=zh&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch"], null, true);
+}</script>
+<script src="//bits.wikimedia.org/zh.wikisource.org/load.php?debug=false&amp;lang=zh&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv264 in 0.288 secs. -->
+	</body>
+</html>
